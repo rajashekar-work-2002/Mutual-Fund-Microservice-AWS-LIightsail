@@ -1,0 +1,10 @@
+com\mutualFund\mf\MfApplication.class
+com\mutualFund\mf\config.class
+com\mutualFund\mf\controller\MfTool.class
+com\mutualFund\mf\repo\PlotRepository.class
+com\mutualFund\mf\repo\UserRepo.class
+com\mutualFund\mf\entity\MFEntity.class
+com\mutualFund\mf\repo\MFrepository.class
+com\mutualFund\mf\entity\PlotEntity.class
+com\mutualFund\mf\entity\User.class
+com\mutualFund\mf\model\Input.class
